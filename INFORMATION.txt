@@ -1,0 +1,11 @@
+This is functional source code. Build errors in the original source code have been fixed.
+
+An MSDOS environment is required.
+For example DosBox.
+
+To create MSDOS 1.25, the following steps have to be performed:
+
+[MSDOS COMMANDS]
+
+PATH TOOLS
+MK ALL
